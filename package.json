@@ -1,0 +1,23 @@
+{
+  "name": "transmute-pi",
+  "version": "1.0.0",
+  "description": "a simple node rest api for ubuntu mate pi's",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transmute-industries/transmute-pi.git"
+  },
+  "author": "OR13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/transmute-industries/transmute-pi/issues"
+  },
+  "homepage": "https://github.com/transmute-industries/transmute-pi#readme",
+  "dependencies": {
+    "restify": "^5.0.0-beta-1"
+  }
+}
