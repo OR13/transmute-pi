@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=mate-terminal -e "bash -c 'cd /home/remedi-admin/';'./ngrok tcp --remote-addr 1.tcp.ngrok.io:20379 22\n';'exec /bin/bash'"
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=Start ngrok tcp
+Name=Start ngrok tcp
+Comment[en_US]=
+Comment=

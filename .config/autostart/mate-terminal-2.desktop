@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=mate-terminal -e "bash -c 'cd /home/remedi-admin/';'./ngrok http --hostname=pi.remedi.io 8080\n';'exec /bin/bash'"
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=Start ngrok http
+Name=Start ngrok http
+Comment[en_US]=
+Comment=

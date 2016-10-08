@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=mate-terminal -e "bash -c 'cd /home/remedi-admin/transmute-pi';'npm run start';'exec /bin/bash'"
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=Start Agent
+Name=Start Agent
+Comment[en_US]=
+Comment=
